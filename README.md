@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muwanguzi Alvin Kiggundu
-- 👀 I’m interested in development, especially mobile development, system analysis and design, as well as database development. 
+- 👀 I’m interested in development, especially mobile development, system analysis and design, as well as web development. 
 - 🌱 I’m currently learning mobile development, system security, and database development
 - 💞️ I’m looking to collaborate on systems development projects
 - 📫 How to reach me alvinmuwanguzi1@gmail.com
