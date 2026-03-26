@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <b>Certification Title (Update This)</b><br>
-  Issued by The Linux Foundation
+  <b>Certified in Cybersecurity (CC)</b><br>
+  Issued by ISC2
 </p>
 
 ## 🌐 Socials:
