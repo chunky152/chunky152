@@ -1,6 +1,17 @@
 # 💫 About Me:
 👋 Hi, I’m Muwanguzi Alvin Kiggundu<br>👀 I’m interested in development, especially mobile development, system analysis and design, as well as web development.<br>🌱 I’m currently learning cloud infrastructure management with Terraform, systems development with Domain Driven Design, system security, and DevOps<br>💞️ I’m looking to collaborate on systems development projects
 
+## 🏅 Certifications
+<p align="center">
+  <a href="https://www.credly.com/badges/2ad1e526-6ced-47e1-a928-5975eecb7b41" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/2ad1e526-6ced-47e1-a928-5975eecb7b41.png" alt="LFS250 Badge" width="160"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Linux Foundation System Administration (LFS250)</b><br>
+  Issued by The Linux Foundation
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muwanguzi-alvin-kiggundu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/alvinmuwanguzi1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alvinmuwanguzi1@gmail.com) 
