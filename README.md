@@ -3,7 +3,7 @@
 
 ## 🏅 Certifications
 <p align="center">
-  <a href="https://www.credly.com/badges/2ad1e526-6ced-47e1-a928-5975eecb7b41" target="_blank">
+  <a href="[https://www.credly.com/badges/2ad1e526-6ced-47e1-a928-5975eecb7b41](https://images.credly.com/size/110x110/images/7404ca0d-98e1-48b6-a2a3-de8d7dcd85b5/blob)" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/2ad1e526-6ced-47e1-a928-5975eecb7b41.png" alt="LFS250 Badge" width="160"/>
   </a>
 </p>
