@@ -2,15 +2,15 @@
 👋 Hi, I’m Muwanguzi Alvin Kiggundu<br>👀 I’m interested in development, especially mobile development, system analysis and design, as well as web development.<br>🌱 I’m currently learning cloud infrastructure management with Terraform, systems development with Domain Driven Design, system security, and DevOps<br>💞️ I’m looking to collaborate on systems development projects
 
 ## 🏅 Certifications
-<p align="center">
-  <a href="[[https://www.credly.com/badges/2ad1e526-6ced-47e1-a928-5975eecb7b41](https://images.credly.com/size/110x110/images/7404ca0d-98e1-48b6-a2a3-de8d7dcd85b5/blob)](https://images.credly.com/size/340x340/images/7404ca0d-98e1-48b6-a2a3-de8d7dcd85b5/blob)" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/2ad1e526-6ced-47e1-a928-5975eecb7b41.png" alt="LFS250 Badge" width="160"/>
-  </a>
-</p>
 
 <p align="center">
-  <b>Linux Foundation System Administration (LFS250)</b><br>
-  Issued by The Linux Foundation
+  <a href="https://www.credly.com/badges/2ad1e526-6ced-47e1-a928-5975eecb7b41">
+    <img src="https://images.credly.com/size/340x340/images/2ad1e526-6ced-47e1-a928-5975eecb7b41.png" width="140"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/54d6f52f-d874-419e-b233-c9d06adae091">
+    <img src="https://images.credly.com/size/340x340/images/54d6f52f-d874-419e-b233-c9d06adae091.png" width="140"/>
+  </a>
 </p>
 
 ## 🌐 Socials:
