@@ -4,14 +4,27 @@
 ## 🏅 Certifications
 
 <p align="center">
+  <a href="https://www.credly.com/badges/2ad1e526-6ced-47e1-a928-5975eecb7b41" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/2ad1e526-6ced-47e1-a928-5975eecb7b41.png" alt="LFS250 Badge" width="160"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Linux Foundation System Administration (LFS250)</b><br>
+  Issued by The Linux Foundation
+</p>
+
+<br>
+
+<p align="center">
   <a href="https://www.credly.com/badges/54d6f52f-d874-419e-b233-c9d06adae091" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/54d6f52f-d874-419e-b233-c9d06adae091.png" alt="Certification Badge" width="160"/>
   </a>
 </p>
+
 <p align="center">
-  <a href="https://www.credly.com/badges/2ad1e526-6ced-47e1-a928-5975eecb7b41">
-    <img src="YOUR_IMAGE_URL" width="150"/>
-  </a>
+  <b>Certification Title (Update This)</b><br>
+  Issued by The Linux Foundation
 </p>
 
 ## 🌐 Socials:
