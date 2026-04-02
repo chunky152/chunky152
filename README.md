@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Muwanguzi Alvin Kiggundu<br>👀 I’m interested in development, especially mobile development, system analysis and design, as well as web development.<br>🌱 I’m currently learning cloud infrastructure management with Terraform, systems development with Domain Driven Design, system security, and DevOps<br>💞️ I’m looking to collaborate on systems development projects
+👋 Hi, I’m Muwanguzi Alvin Kiggundu<br>🚀 DevOps Engineer | IaC (Terraform) | GitOps | Docker | Kubernetes | Ansible | Python<br>I’m passionate about designing and building scalable, secure, and automated systems. My focus is on cloud infrastructure management, DevOps practices, and modern system design.<br>🌱 Currently, I’m strengthening my expertise in Infrastructure as Code using Terraform, containerization with Docker, orchestration with Kubernetes, and automation using Python and Ansible. I also adopt GitOps principles to streamline continuous integration and deployment workflows.<br>💞️ 🤝 I’m open to collaborating on cloud-native applications, DevOps pipelines, and system architecture projects.
 
 ## 🏅 Certifications
 
